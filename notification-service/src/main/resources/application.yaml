@@ -1,0 +1,8 @@
+server:
+  port: 5081
+spring:
+  application:
+    name: notification-service
+  sleuth:
+    sampler:
+      rate: 100
